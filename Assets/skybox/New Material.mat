@@ -137,7 +137,7 @@ Material:
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
     - _Anisotropy: 0
-    - _AtmosphereThickness: 1
+    - _AtmosphereThickness: 0.37
     - _BlendMode: 0
     - _CoatMask: 0
     - _CullMode: 2
@@ -164,7 +164,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
-    - _Exposure: 4.44
+    - _Exposure: 3.86
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
     - _HeightMapParametrization: 0
@@ -212,8 +212,8 @@ Material:
     - _StencilWriteMaskMV: 40
     - _SubsurfaceMask: 1
     - _SunDisk: 2
-    - _SunSize: 0.04
-    - _SunSizeConvergence: 5
+    - _SunSize: 0.024
+    - _SunSizeConvergence: 3.21
     - _SupportDecals: 1
     - _SurfaceType: 0
     - _TexWorldScale: 1
