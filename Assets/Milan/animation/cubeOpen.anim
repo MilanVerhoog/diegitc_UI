@@ -984,7 +984,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.729, y: 0.005, z: 0.336}
+        value: {x: 2.34, y: -0, z: 0.542}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -993,9 +993,9 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 11.983334
-        value: {x: 0.716, y: 0.005, z: 0.321}
-        inSlope: {x: -0.0043333173, y: 0, z: -0.0049999948}
-        outSlope: {x: -0.0043333173, y: 0, z: -0.0049999948}
+        value: {x: 2.34, y: -0, z: 0.649}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -1012,7 +1012,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: UITerminal
+    path: UITerminal_F
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -1543,7 +1543,7 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3718854744
+      path: 3106211242
       attribute: 1
       script: {fileID: 0}
       typeID: 4
@@ -5981,7 +5981,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.729
+        value: 2.34
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -5990,9 +5990,9 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 11.983334
-        value: 0.716
-        inSlope: -0.0043333173
-        outSlope: -0.0043333173
+        value: 2.34
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
@@ -6010,7 +6010,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: UITerminal
+    path: UITerminal_F
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6018,7 +6018,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.005
+        value: -0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -6027,7 +6027,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 11.983334
-        value: 0.005
+        value: -0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -6047,7 +6047,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: UITerminal
+    path: UITerminal_F
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6055,7 +6055,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.336
+        value: 0.542
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -6064,9 +6064,9 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 11.983334
-        value: 0.321
-        inSlope: -0.0049999948
-        outSlope: -0.0049999948
+        value: 0.649
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
@@ -6084,7 +6084,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: UITerminal
+    path: UITerminal_F
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
